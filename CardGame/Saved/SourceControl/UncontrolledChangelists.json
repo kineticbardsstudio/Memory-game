@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/Amrep/Documents/GitHub/memory game/Memory-game/CardGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Amrep/Documents/GitHub/memory game/Memory-game/CardGame/Content/UI/Main_Menu.uasset",
 				"C:/Users/Isaac/Documents/GitHub/Memory-game/CardGame/Content/Untitled_HLOD0_Instancing.uasset",
 				"C:/Users/Isaac/Documents/GitHub/Memory-game/CardGame/Content/__ExternalActors__/Untitled/C/VR/0LAVFHBFPQHWQIE58DO5WF.uasset",
 				"C:/Users/Isaac/Documents/GitHub/Memory-game/CardGame/Content/__ExternalActors__/Untitled/C/JJ/2KM5RW3RB8MQTC5Z5QAP86.uasset",
@@ -222,7 +225,6 @@
 				"C:/Users/Isaac/Documents/GitHub/Memory-game/CardGame/Content/MemoryGame/Images/Ogham-Deck/Ogham_Card__Z_.uasset",
 				"C:/Users/Isaac/Documents/GitHub/Memory-game/CardGame/Content/UI/UI_Assets/Deck_Thumbnails/Ogham_Deck_Thumbnail.uasset",
 				"C:/Users/Isaac/Documents/GitHub/Memory-game/CardGame/Content/UI/UI_Assets/Deck_Thumbnails/Shapes_Deck_Thumbnail.uasset",
-				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
 				"C:/Memory game repo/Memory-game/CardGame/Content/UI/Main_Menu.uasset",
 				"C:/Memory game repo/Memory-game/CardGame/Content/MemoryGame/Blueprints/EndGame/WBP_EndGame.uasset",
 				"C:/Memory game repo/Memory-game/CardGame/Content/MemoryGame/Blueprints/Setup/WBP_ImageCard.uasset",
