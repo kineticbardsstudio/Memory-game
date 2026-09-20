@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Isaac Smith/Documents/GitHub/Memory-game/CardGame/Content/UI/Gameplay_Screen_2_Players.uasset"
+			]
+		}
+	]
+}
